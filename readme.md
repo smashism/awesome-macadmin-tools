@@ -186,11 +186,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](images/vfuse.png)](https://github.com/chilcote/vfuse)
 
-### Jamf Migrator 2
+### Jamf Migrator
 
-> An Automator application that quickly builds payload-free pkgs for deployment.
+> A tool to migrate data granularly between Jamf Pro servers.
 
-[![](images/payloadfreepackagecreator.gif)](https://github.com/rtrouton/Payload-Free-Package-Creator)
+[![](images/jamfmigrator.png)](https://github.com/jamfprofessionalservices/JamfMigrator)
 
 ### Giphy Capture
 
