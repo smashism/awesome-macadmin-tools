@@ -116,8 +116,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ### BBEdit
 
-> Apple's integrated development environment (IDE) containing a suite of software development tools developed by Apple for developing software used by Apple hardware. Free with an Apple ID.
-
+> Clean and simple HTML & text editor, made by Bare Bones Software. $49.99 at their site, or in the Mac App Store.
 [![](images/bbedit.png)](https://www.barebones.com/products/bbedit/)
 
 ### MacDown
