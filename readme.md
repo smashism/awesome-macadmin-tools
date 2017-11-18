@@ -198,9 +198,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](images/giphy.gif)](https://itunes.apple.com/us/app/giphy-capture-the-gif-maker/id668208984?mt=12)
 
-### App Cleaner
+### AppCleaner
 
-> An Automator application that quickly builds payload-free pkgs for deployment.
+> A small application which allows you to thoroughly uninstall unwanted apps.
 
 [![](images/appcleaner.gif)](https://freemacsoft.net/appcleaner/)
 
@@ -218,7 +218,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ### NoMAD
 
-> The functionality you want from a Mac bound to Active Directory without having to actually bind to AD. (Make sure you check out [https://github.com/jamfit/NoMAD-Installer](bookmark this NoMAD updater) as well.)
+> The functionality you want from a Mac bound to Active Directory without having to actually bind to AD. (Make sure you [check out this NoMAD updater](https://github.com/jamfit/NoMAD-Installer) as well.)
 
 [![](images/nomad.png)](https://nomad.menu/nomad-open-source/)
 
