@@ -198,9 +198,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](images/giphy.gif)](https://itunes.apple.com/us/app/giphy-capture-the-gif-maker/id668208984?mt=12)
 
-### App Cleaner
+### AppCleaner
 
-> An Automator application that quickly builds payload-free pkgs for deployment.
+> A small application which allows you to thoroughly uninstall unwanted apps.
 
 [![](images/appcleaner.gif)](https://freemacsoft.net/appcleaner/)
 
