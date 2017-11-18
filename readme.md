@@ -218,7 +218,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ### NoMAD
 
-> The functionality you want from a Mac bound to Active Directory without having to actually bind to AD. (Make sure you check out [https://github.com/jamfit/NoMAD-Installer](bookmark this NoMAD updater) as well.)
+> The functionality you want from a Mac bound to Active Directory without having to actually bind to AD. (Make sure you [check out this NoMAD updater](https://github.com/jamfit/NoMAD-Installer) as well.)
 
 [![](images/nomad.png)](https://nomad.menu/nomad-open-source/)
 
