@@ -227,6 +227,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](images/hello-it.png)](https://github.com/ygini/Hello-IT)
 
+### moss
+
+> A helper app for Hello IT to make building mobileconfig files easy!
+
+[![](images/moss.png)](https://github.com/PaperFixie/moss)
+
 ### MacDNA
 
 > Customizable menubar that checks for hardware status, management framework status, and other handy information.
