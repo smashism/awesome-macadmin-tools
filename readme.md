@@ -165,6 +165,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](images/lastpass.png)](https://www.google.com/keep/)
 
+### Quiver
+
+> Quiver is a notebook built for programmers. It lets you easily mix text, code, Markdown and LaTeX within one note, edit code with an awesome code editor, live preview Markdown and LaTeX, and find any note instantly via the full-text search. $10 in the Mac App Store.
+
+[![](images/quiver.png)](http://happenapps.com)
+
 
 ## Power Ups
 
