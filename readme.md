@@ -25,10 +25,24 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ### munkipkg
 
-> munkipkg is a simple tool for building packages. While it was developed for use with munki, it can be used to make pkgs that are deployable with any management framework.
+> [munkipkg](https://github.com/munki/munki-pkg) is a simple tool for building packages. While it was developed for use with munki, it can be used to make pkgs that are deployable with any management framework.
 
-[![](images/munkipkg.png)](https://github.com/autopkg/autopkg)
+## Basic operation
 
+munkipkg builds flat packages using Apple's `pkgbuild` and `productbuild` tools.
+
+### Package project directories
+
+munkipkg builds packages from a "package project directory". At its simplest, a package project directory is a directory containing a "payload" directory, which itself contains the files to be packaged. More typically, the directory also contains a "build-info.plist" file containing specific settings for the build. The package project directory may also contain a "scripts" directory containing any scripts (and, optionally, additional files used by the scripts) to be included in the package.
+
+
+### Package project directory layout
+```
+project_dir/
+    build-info.plist
+    payload/
+    scripts/
+```
 ### AutoPkg
 
 > Automated third party package download and creation for deployment.
