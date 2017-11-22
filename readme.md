@@ -117,6 +117,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ### BBEdit
 
 > Clean and simple HTML & text editor, made by Bare Bones Software. $49.99 at their site, or in the Mac App Store.
+
 [![](images/bbedit.png)](https://www.barebones.com/products/bbedit/)
 
 ### MacDown
