@@ -22,6 +22,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Start the description with a capital and end with a full stop/period.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
+- Images should be 1000px wide, and 500-600px high for a great reading experience. Heights can very but width is important.
 - The pull request should have a useful title and include a link to the App and why it should be included.
 
 ## How to Get GIF Captures
