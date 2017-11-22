@@ -23,11 +23,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](images/packages.gif)](http://s.sudre.free.fr/Software/Packages/about.html)
 
-### munkipkg
+### munki-pkg
 
-> munkipkg is a simple tool for building packages. While it was developed for use with munki, it can be used to make pkgs that are deployable with any management framework.
+> munki-pkg is a simple tool for building packages. While it was developed for use with munki, it can be used to make pkgs that are deployable with any management framework.
 
-[![](images/munkipkg.png)](https://github.com/autopkg/autopkg)
+[![](images/munkipkg.png)](https://github.com/munki/munki-pkg)
 
 ### AutoPkg
 
