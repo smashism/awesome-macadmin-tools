@@ -7,6 +7,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Table of Contents
 
 - [Deployment](#deployment)
+- [Diagnostic Tools] (#diagnostic-tools)
 - [Provisioning](#provisioning)
 - [Text Editing](#text-editing)
 - [Productivity](#productivity)
@@ -71,6 +72,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](images/payloadfreepackagecreator.gif)](https://github.com/rtrouton/Payload-Free-Package-Creator)
 
+## Diagnostic Tools
+
+### DiskWarrior (by Alsoft)
+
+> Disk diagnostics and recovery, for those moments when Disk Utility's First Aid just doesn't cut it.
+
+> $119.95 US for a download and flashdrive.
+
+[![](images/diskwarrior.png)](https://www.alsoft.com/DiskWarrior/)
 
 ## Provisioning
 
