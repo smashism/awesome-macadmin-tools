@@ -240,6 +240,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](images/macdna.png)](https://github.com/jhbush/Arek/tree/master/Development/MacDNA%20Menulet)
 
+### Yo
+
+> Custom user notifications with Swift.
+
+[![](images/yo.png)](https://github.com/sheagcraig/yo)
+
 
 
 <sup><sup><sup>&ast; *[Is imaging dead](http://isimagingdead.com/)?* </sup></sup></sup>
