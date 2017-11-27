@@ -37,13 +37,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ### AutoPkgr
 
-> GUI for AutoPkg, with click-to-add functionality of additional components
+> GUI for AutoPkg, with click-to-add functionality of additional components.
 
 [![](images/autopkgr.gif)](https://github.com/lindegroup/autopkgr)
 
 ### AutoDMG
 
-> Create deployable system images from macOS installers.*
+> Create deployable system images from macOS installers.[*](#-is-imaging-dead-)
 
 [![](images/autodmg.png)](https://github.com/MagerValp/AutoDMG)
 
@@ -55,7 +55,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ### AutoCasperNBI
 
-> Automate the creation of NetBoot images (NBIs) for use with Jamf Imaging.*
+> Automate the creation of NetBoot images (NBIs) for use with Jamf Imaging.[*](#-is-imaging-dead-)
 
 [![](images/autocaspernbi.png)](https://github.com/macmule/AutoCasperNBI)
 
