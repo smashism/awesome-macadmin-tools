@@ -139,7 +139,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 > Team chat and productivity client. I mean, you know what Slack is. Anyone can create a free time with ten integrations. (Join the [MacAdmins Slack](https://macadmins.herokuapp.com/)!) There are over 15k users in the MacAdmins Slack. Drink from the firehose and get answers from the biggest hivemind of Apple-centric IT folks in the universe.
 
-[![](images/macadminsslack.png)](https://slack.com/downloads/osx)
+[![](images/slack.png)](https://slack.com/downloads/osx)
 
 ### Slack Calls
 
