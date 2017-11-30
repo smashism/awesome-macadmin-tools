@@ -69,7 +69,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 > An Automator application that quickly builds payload-free pkgs for deployment.
 
-[![](images/payloadfreepackagecreator.gif)](https://github.com/rtrouton/Payload-Free-Package-Creator)
+[![](images/payloadfreepackagecreator.png)](https://github.com/rtrouton/Payload-Free-Package-Creator)
 
 
 ## Provisioning
