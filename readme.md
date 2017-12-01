@@ -7,8 +7,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Table of Contents
 
 - [Deployment](#deployment)
-- [Provisioning](#provisioning)
+- [Onboarding Experience](#onboarding-experience)
 - [Text Editing](#text-editing)
+- [Helper Menus](#helper-menus)
 - [Productivity](#productivity)
 - [Power ups](#power-ups)
 
@@ -22,6 +23,20 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 > A free package creation tool. The gold standard of making your own custom installer packages.
 
 [![](images/packages.gif)](http://s.sudre.free.fr/Software/Packages/about.html)
+
+### Composer
+
+> Jamf's in-house package creator tool. Builds pkgs and dmgs made for deployment with the Jamf Pro Suite, but pkgs built with Composer can be used with any management framework.
+
+$99.95 as an individual purchase, otherwise included with the Jamf Pro Suite if a Jamf customer.
+
+[![](images/composer.png)](https://www.jamf.com/products/jamf-composer/)
+
+### Payload-Free Package Creator
+
+> An Automator application that quickly builds payload-free pkgs for deployment.
+
+[![](images/payloadfreepackagecreator.png)](https://github.com/rtrouton/Payload-Free-Package-Creator)
 
 ### munki-pkg
 
@@ -41,17 +56,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](images/autopkgr.gif)](https://github.com/lindegroup/autopkgr)
 
-### AutoDMG
-
-> Create deployable system images from macOS installers.[*](#-is-imaging-dead-)
-
-[![](images/autodmg.png)](https://github.com/MagerValp/AutoDMG)
-
 ### Suspicious Package
 
 > An application for inspecting the contents of macOS packages.
 
 [![](images/suspiciouspackage.gif)](http://www.mothersruin.com/software/SuspiciousPackage/)
+
+### AutoDMG
+
+> Create deployable system images from macOS installers.[*](#-is-imaging-dead-)
+
+[![](images/autodmg.png)](https://github.com/MagerValp/AutoDMG)
 
 ### AutoCasperNBI
 
@@ -59,20 +74,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](images/autocaspernbi.png)](https://github.com/macmule/AutoCasperNBI)
 
-### Composer
-
-> Jamf's in-house package creator tool. Builds pkgs and dmgs made for deployment with the Jamf Pro Suite, but pkgs built with Composer can be used with any management framework.
-
-[![](images/composer.png)](https://www.jamf.com/products/jamf-composer/)
-
-### Payload-Free Package Creator
-
-> An Automator application that quickly builds payload-free pkgs for deployment.
-
-[![](images/payloadfreepackagecreator.png)](https://github.com/rtrouton/Payload-Free-Package-Creator)
 
 
-## Provisioning
+## Onboarding Experience
 
 ### Splash Buddy
 
@@ -80,17 +84,45 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](images/splashbuddy.png)](https://github.com/ftiff/SplashBuddy)
 
+### ADEPT
+
+> A setup/splash screen for DEP and user-initiated Jamf Pro enrollments. Detailed documentation highlights how to work with the application in Xcode to customize it for your organization's needs.
+
+[![](images/adept.png)](https://git.tramscloud.co.uk/projects/XCOD/repos/adept/browse)
+
 ### DEP Notify
 
 > A lightweight notification app designed to let users know what's happening during DEP enrollment.
 
 [![](images/depnotify.png)](https://gitlab.com/Mactroll/DEPNotify)
 
-### ADEPT
 
-> A setup/splash screen for DEP and user-initiated Jamf Pro enrollments. Detailed documentation highlights how to work with the application in Xcode to customize it for your organization's needs.
 
-[![](images/adept.png)](https://git.tramscloud.co.uk/projects/XCOD/repos/adept/browse)
+## Helper Menus
+
+### NoMAD
+
+> The functionality you want from a Mac bound to Active Directory without having to actually bind to AD. (Make sure you [check out this NoMAD updater](https://github.com/jamfit/NoMAD-Installer) as well.)
+
+[![](images/nomad.png)](https://nomad.menu/nomad-open-source/)
+
+### Hello-IT
+
+> A handy menubar application to get users in touch with IT and quickly get information and resources on their Mac.
+
+[![](images/hello-it.png)](https://github.com/ygini/Hello-IT)
+
+### moss
+
+> A helper app for Hello IT to make building mobileconfig files easier.
+
+[![](images/moss.png)](https://github.com/PaperFixie/moss)
+
+### MacDNA
+
+> Customizable menubar that checks for hardware status, management framework status, and other handy information.
+
+[![](images/macdna.png)](https://github.com/jhbush/Arek/tree/master/Development/MacDNA%20Menulet)
 
 
 
@@ -106,17 +138,23 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 > A high performance, cross-platform text editor.
 
+$80 to buy, free to evaluate.
+
 [![](images/sublimetext.png)](https://www.sublimetext.com/)
 
 ### Xcode
 
-> Apple's integrated development environment (IDE) containing a suite of software development tools developed by Apple for developing software used by Apple hardware. Free with an Apple ID.
+> Apple's integrated development environment (IDE) containing a suite of software development tools developed by Apple for developing software used by Apple hardware. 
+
+Free with an Apple ID.
 
 [![](images/xcode.png)](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
 
 ### BBEdit
 
-> Clean and simple HTML & text editor, made by Bare Bones Software. $49.99 at their site, or in the Mac App Store.
+> Clean and simple HTML & text editor, made by Bare Bones Software. 
+
+$49.99 at their site, or in the Mac App Store.
 
 [![](images/bbedit.png)](https://www.barebones.com/products/bbedit/)
 
@@ -133,6 +171,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 [![](images/vscode.png)](https://code.visualstudio.com/)
 
 
+
 ## Productivity
 
 ### Slack
@@ -140,12 +179,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 > Team chat and productivity client. I mean, you know what Slack is. Anyone can create a free time with ten integrations. (Join the [MacAdmins Slack](https://macadmins.herokuapp.com/)!) There are over 15k users in the MacAdmins Slack. Drink from the firehose and get answers from the biggest hivemind of Apple-centric IT folks in the universe.
 
 [![](images/slack.png)](https://slack.com/downloads/osx)
-
-### Slack Calls
-
-> Slack recently integrated Screenhero into the Slack client. Easily call colleagues with video chat and screensharing from within a Slack team.
-
-[![](images/slackcalls.gif)](https://slackhq.com/screen-sharing-in-slack-made-interactive-cf8816efaa01)
 
 ### Trello
 
@@ -155,7 +188,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ### Google Keep
 
-> Virtual sticky notes, lists, photos, and audio. Included with Gmail accounts.
+> Virtual sticky notes, lists, photos, and audio. 
+
+Included with Gmail accounts.
 
 [![](images/googlekeep.gif)](https://www.google.com/keep/)
 
@@ -166,7 +201,26 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 [![](images/lastpass.png)](https://www.google.com/keep/)
 
 
+
 ## Power Ups
+
+### AppCleaner
+
+> A small application which allows you to thoroughly uninstall unwanted apps.
+
+[![](images/appcleaner.gif)](https://freemacsoft.net/appcleaner/)
+
+### Amphetamine
+
+> A caffeine replacement that prevents your Mac from sleeping on demand.
+
+[![](images/amphetamine.jpg)](https://itunes.apple.com/app/amphetamine/id937984704?mt=12)
+
+### vfuse
+
+> A handy script that converts a never-booted DMG into a VMware Fusion VM.
+
+[![](images/vfuse.png)](https://github.com/chilcote/vfuse)
 
 ### Spruce
 
@@ -180,11 +234,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](images/recategorizer.png)](https://github.com/sheagcraig/Recategorizer)
 
-### vfuse
+### Yo
 
-> A handy script that converts a never-booted DMG into a VMware Fusion VM.
+> Custom user notifications with Swift.
 
-[![](images/vfuse.png)](https://github.com/chilcote/vfuse)
+[![](images/yo.png)](https://github.com/sheagcraig/yo)
 
 ### Jamf Migrator
 
@@ -198,53 +252,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](images/giphy.gif)](https://itunes.apple.com/us/app/giphy-capture-the-gif-maker/id668208984?mt=12)
 
-### AppCleaner
-
-> A small application which allows you to thoroughly uninstall unwanted apps.
-
-[![](images/appcleaner.gif)](https://freemacsoft.net/appcleaner/)
-
 ### Wallcat
 
 > Rotates through beautiful new desktop wallpapers
 
 [![](images/wallcat.gif)](https://itunes.apple.com/us/app/wallcat/id1000397973?mt=12)
-
-### Amphetamine
-
-> A caffeine replacement that prevents your Mac from sleeping.
-
-[![](images/amphetamine.jpg)](https://itunes.apple.com/app/amphetamine/id937984704?mt=12)
-
-### NoMAD
-
-> The functionality you want from a Mac bound to Active Directory without having to actually bind to AD. (Make sure you [check out this NoMAD updater](https://github.com/jamfit/NoMAD-Installer) as well.)
-
-[![](images/nomad.png)](https://nomad.menu/nomad-open-source/)
-
-### Hello-IT
-
-> A handy menubar application to get users in touch with IT and quickly get information and resources on their Mac.
-
-[![](images/hello-it.png)](https://github.com/ygini/Hello-IT)
-
-### moss
-
-> A helper app for Hello IT to make building mobileconfig files easy!
-
-[![](images/moss.png)](https://github.com/PaperFixie/moss)
-
-### MacDNA
-
-> Customizable menubar that checks for hardware status, management framework status, and other handy information.
-
-[![](images/macdna.png)](https://github.com/jhbush/Arek/tree/master/Development/MacDNA%20Menulet)
-
-### Yo
-
-> Custom user notifications with Swift.
-
-[![](images/yo.png)](https://github.com/sheagcraig/yo)
 
 
 
