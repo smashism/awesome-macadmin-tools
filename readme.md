@@ -96,6 +96,12 @@ $99.95 as an individual purchase, otherwise included with the Jamf Pro Suite if 
 
 [![](images/depnotify.png)](https://gitlab.com/Mactroll/DEPNotify)
 
+### Lightning.app
+
+> Lightning is the ultimate image creation and deployment tool using the ultra-fast Thunderbolt™ technology. Lightning allows you to create clean, untouched, never-booted images based on your macOS installer media. You can even create a local user account or include additional PKG's during creation. Lightning currently supports macOS 10.13 only with APFS. macOS 10.13 and HFS+ is not supported yet. Target device must be APFS capable before imaging. This means the firmware must have been upgraded and it must have an APFS Volume and Container. HFS+ is still supported with macOS 10.12 and below.
+
+[![](images/filewave_lightning.png)](https://www.filewave.com/item/lightning-1-8-7?category_id=70)
+
 
 
 ## Helper Menus
