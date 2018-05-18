@@ -144,7 +144,7 @@ $80 to buy, free to evaluate.
 
 ### Xcode
 
-> Apple's integrated development environment (IDE) containing a suite of software development tools developed by Apple for developing software used by Apple hardware. 
+> Apple's integrated development environment (IDE) containing a suite of software development tools developed by Apple for developing software used by Apple hardware.
 
 Free with an Apple ID.
 
@@ -152,7 +152,7 @@ Free with an Apple ID.
 
 ### BBEdit
 
-> Clean and simple HTML & text editor, made by Bare Bones Software. 
+> Clean and simple HTML & text editor, made by Bare Bones Software.
 
 $49.99 at their site, or in the Mac App Store.
 
@@ -188,7 +188,7 @@ $49.99 at their site, or in the Mac App Store.
 
 ### Google Keep
 
-> Virtual sticky notes, lists, photos, and audio. 
+> Virtual sticky notes, lists, photos, and audio.
 
 Included with Gmail accounts.
 
@@ -257,6 +257,12 @@ Included with Gmail accounts.
 > Rotates through beautiful new desktop wallpapers
 
 [![](images/wallcat.gif)](https://itunes.apple.com/us/app/wallcat/id1000397973?mt=12)
+
+### Stronghold
+
+> Easily configure macOS security settings from the terminal.
+
+[![](images/stronghold.gif)](https://github.com/alichtman/stronghold)
 
 
 
