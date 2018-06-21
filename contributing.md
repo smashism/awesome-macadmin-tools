@@ -12,7 +12,9 @@ Please ensure your pull request adheres to the following guidelines:
 
   > Short description of tool.
 
-  Price (if applicable)
+  **Price:** (if applicable, N/A for open source)
+  
+  **Link:** [http://url/to/toolinfo)(http://url/to/toolinfo)
 
   [![](images/filename.png)](http://url/to/toolinfo)
   ```
