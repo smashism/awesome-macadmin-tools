@@ -4,7 +4,7 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
-## Table of Contents
+## Contents
 
 - [Deployment](#deployment)
 - [Onboarding Experience](#onboarding-experience)
