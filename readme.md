@@ -90,7 +90,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ### AutoDMG
 
-> Create deployable system images from macOS installers.[*](#-is-imaging-dead-)
+> Create deployable system images from macOS installers.[*](http://isimagingdead.com/)
 
 **Cost:** N/A
 
@@ -399,8 +399,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 [![](images/stronghold.gif)](https://github.com/alichtman/stronghold)
 
 
-
-<sup><sup><sup>&ast; *[Is imaging dead](http://isimagingdead.com/)?* </sup></sup></sup>
 ---
 
 ## License
