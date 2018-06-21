@@ -126,7 +126,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 > A setup/splash screen for DEP and user-initiated Jamf Pro enrollments. Detailed documentation highlights how to work with the application in Xcode to customize it for your organization's needs.
 
-**Cost:** Unclear (code is visible on Bitbucket but may require support agreement for use)
+**Cost:** Free to use, paid installation/customization services available.
 
 **Link:** [https://git.tramscloud.co.uk/projects/XCOD/repos/adept/browse](https://git.tramscloud.co.uk/projects/XCOD/repos/adept/browse)
 
