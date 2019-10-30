@@ -150,11 +150,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 > The functionality you want from a Mac bound to Active Directory without having to actually bind to AD. (Make sure you [check out this NoMAD updater](https://github.com/jamfit/NoMAD-Installer) as well.)
 
-**Cost:** Free, Pro version pricing information can be found [here](https://oandg.onfastspring.com/nomad-pro)
+**Cost:** Free, Jamf Connect (pro version) pricing information can be found [here](https://www.jamf.com/products/jamf-connect/)
 
-**Link:** [https://nomad.menu/nomad-open-source/](https://nomad.menu/nomad-open-source/)
+**Link:** [https://nomad.menu/products/#nomad](https://nomad.menu/products/#nomad)
 
-[![](images/nomad.png)](https://nomad.menu/nomad-open-source/)
+[![](images/nomad.png)](https://nomad.menu/products/#nomad)
 
 ### Hello-IT
 
