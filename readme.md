@@ -84,7 +84,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 **Cost:** Free
 
-**Link:** [http://www.mothersruin.com/software/SuspiciousPackage/](http://www.mothersruin.com/software/SuspiciousPackage/)
+**Link:** [https://www.mothersruin.com/software/SuspiciousPackage/](https://www.mothersruin.com/software/SuspiciousPackage/)
 
 [![](images/suspiciouspackage.gif)](http://www.mothersruin.com/software/SuspiciousPackage/)
 
