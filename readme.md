@@ -88,6 +88,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](images/suspiciouspackage.gif)](http://www.mothersruin.com/software/SuspiciousPackage/)
 
+### Apparency
+
+> An application for inspecting application bundles, including code signing requirements, notarization, and included frameworks.
+
+**Cost:** Free
+
+**Link:** [https://www.mothersruin.com/software/Apparency/](https://www.mothersruin.com/software/Apparency/)
+
+[![](images/apparency.png)](https://www.mothersruin.com/software/Apparency/)
+
 ### AutoDMG
 
 > Create deployable system images from macOS installers.[*](http://isimagingdead.com/)
