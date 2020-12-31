@@ -118,7 +118,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 **Link:** 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YUaymUWYQAo" target="_blank"><img src="http://img.youtube.com/vi/YUaymUWYQAo/0.jpg" alt="Octory enrollment demo" width="992" height="558" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YUaymUWYQAo" target="_blank"><img src="http://img.youtube.com/vi/YUaymUWYQAo/0.jpg" alt="Octory enrollment demo" width="1000" border="0" /></a>
 
 ### ADEPT
 
