@@ -98,18 +98,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](images/autodmg.png)](https://github.com/MagerValp/AutoDMG)
 
-### AutoCasperNBI
-
-> Automate the creation of NetBoot images (NBIs) for use with Jamf Imaging.[*](#-is-imaging-dead-)
-
-**Cost:** N/A
-
-**Link:** [https://github.com/macmule/AutoCasperNBI](https://github.com/macmule/AutoCasperNBI)
-
-[![](images/autocaspernbi.png)](https://github.com/macmule/AutoCasperNBI)
-
-
-
 ## Onboarding Experience
 
 ### Splash Buddy
@@ -121,6 +109,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 **Link:** [https://github.com/Shufflepuck/SplashBuddy](https://github.com/Shufflepuck/SplashBuddy)
 
 [![](images/splashbuddy.png)](https://github.com/Shufflepuck/SplashBuddy)
+
+### Octory
+
+> Octory is a highly customizable and elegant macOS application to onboard, support and watch over your users on their Mac.
+
+**Cost:** [Free](https://www.octory.io/pricing), with Pro pricing/options available
+
+**Link:** 
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YUaymUWYQAo" target="_blank"><img src="http://img.youtube.com/vi/YUaymUWYQAo/0.jpg" alt="Octory enrollment demo" width="240" height="180" border="10" /></a>
 
 ### ADEPT
 
@@ -145,6 +143,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 
 ## Helper Menus
+
+### SupportApp
+
+> The Support app is a macOS menu bar app built for organizations to help users and helpdesks to see basic diagnostic information at a glance and easily customizable with a configuration profile.
+
+**Cost:** Free
+
+**Link:** [https://github.com/root3nl/SupportApp](https://github.com/root3nl/SupportApp)
+
+[![](https://github.com/root3nl/SupportApp/raw/master/Screenshots/generic_light_mode.png)](https://github.com/root3nl/SupportApp)
 
 ### NoMAD
 
@@ -397,6 +405,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 **Link:** [https://github.com/alichtman/stronghold](https://github.com/alichtman/stronghold)
 
 [![](images/stronghold.gif)](https://github.com/alichtman/stronghold)
+
+### Rectangle
+
+> Move and resize windows in macOS using keyboard shortcuts or snap areas
+
+**Cost:** Free
+
+**Link:** [https://rectangleapp.com/](https://rectangleapp.com/)
+
+[!(https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle)
 
 
 ---
