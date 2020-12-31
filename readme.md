@@ -118,7 +118,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 **Link:** 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YUaymUWYQAo" target="_blank"><img src="http://img.youtube.com/vi/YUaymUWYQAo/0.jpg" alt="Octory enrollment demo" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YUaymUWYQAo" target="_blank"><img src="http://img.youtube.com/vi/YUaymUWYQAo/0.jpg" alt="Octory enrollment demo" width="992" height="558" border="10" /></a>
 
 ### ADEPT
 
@@ -414,7 +414,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 **Link:** [https://rectangleapp.com/](https://rectangleapp.com/)
 
-[!(https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle)
+[![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle)
 
 
 ---
