@@ -84,9 +84,19 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 **Cost:** Free
 
-**Link:** [http://www.mothersruin.com/software/SuspiciousPackage/](http://www.mothersruin.com/software/SuspiciousPackage/)
+**Link:** [https://www.mothersruin.com/software/SuspiciousPackage/](https://www.mothersruin.com/software/SuspiciousPackage/)
 
 [![](images/suspiciouspackage.gif)](http://www.mothersruin.com/software/SuspiciousPackage/)
+
+### Apparency
+
+> An application for inspecting application bundles, including code signing requirements, notarization, and included frameworks.
+
+**Cost:** Free
+
+**Link:** [https://www.mothersruin.com/software/Apparency/](https://www.mothersruin.com/software/Apparency/)
+
+[![](images/apparency.png)](https://www.mothersruin.com/software/Apparency/)
 
 ### AutoDMG
 
