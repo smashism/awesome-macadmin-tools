@@ -205,6 +205,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 [![](images/macdna.png)](https://github.com/jhbush/Arek/tree/master/Development/MacDNA%20Menulet)
 
 
+### Pareto Security
+
+> Automatically audit your Mac for basic security hygiene.
+
+**Price:** N/A
+
+**Link:** [https://github.com/paretoSecurity/pareto-mac/)(https://github.com/paretoSecurity/pareto-mac/)
+
+[![](images/pareto.png)](https://github.com/paretoSecurity/pareto-mac/)
+
 
 ## Text Editing
 
