@@ -322,6 +322,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](images/lastpass.png)](https://www.lastpass.com/)
 
+### Taskade
+
+> Create simple and minimal checklists, notes and outlines. Taskade is collaborative and syncs in real-time across all devices. Free, browser-based and mobile app interface.
+
+**Cost:** Free, with paid features available.
+
+**Link:** [https://taskade.com/](https://taskade.com/)
+
+[![](images/taskade.gif)](https://taskade.com/)
 
 
 ## Power Ups
