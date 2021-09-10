@@ -211,9 +211,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 **Price:** N/A
 
-**Link:** [https://github.com/paretoSecurity/pareto-mac/](https://github.com/paretoSecurity/pareto-mac/)
+**Link:** [https://paretosecurity.app/](https://paretosecurity.app/)
 
-[![](images/pareto.png)](https://github.com/paretoSecurity/pareto-mac/)
+[![](images/pareto.png)](https://paretosecurity.app/)
 
 
 ## Text Editing
