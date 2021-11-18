@@ -482,6 +482,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle)
 
+### Icons.app
+
+> Icons.app is an application for macOS which enables you to create graphics files in PNG format, for use with management tools like Jamf Software's Jamf Pro or the open source Munki software installation tool.
+
+**Cost:** N/A
+
+**Link:** https://github.com/SAP/macOS-icon-generator
+
+[![](https://github.com/SAP/macOS-icon-generator/raw/main/readme_images/drag_and_drop_source_image.gif)](https://github.com/SAP/macOS-icon-generator)
+
 
 ---
 
