@@ -9,6 +9,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [Deployment](#deployment)
 - [Onboarding Experience](#onboarding-experience)
 - [Text Editing](#text-editing)
+- [Command-line tools](#command-line-tools)
 - [Helper Menus](#helper-menus)
 - [Productivity](#productivity)
 - [Power ups](#power-ups)
@@ -108,6 +109,28 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](images/autodmg.png)](https://github.com/MagerValp/AutoDMG)
 
+### Nudge
+
+> Nudge strongly encourages running macOS updates and can be customized with profiles or local json files.
+
+**Cost:** N/A
+
+**Link:** https://github.com/macadmins/nudge
+
+[![](https://github.com/macadmins/nudge/blob/main/assets/standard_mode/demo_light_1_icon.png?raw=true)](https://github.com/macadmins/nudge)
+
+### Low Profile
+
+>A Mac utility to help inspect Apple Configuration Profile payloads.
+
+**Cost:** N/A
+
+**Link:** [https://github.com/ninxsoft/LowProfile](https://github.com/ninxsoft/LowProfile)
+
+[![](https://github.com/ninxsoft/LowProfile/raw/main/Readme%20Resources/Example.png)](https://github.com/ninxsoft/LowProfile)
+
+
+
 ## Onboarding Experience
 
 ### Splash Buddy
@@ -149,6 +172,20 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 **Link:** [https://gitlab.com/Mactroll/DEPNotify](https://gitlab.com/Mactroll/DEPNotify)
 
 [![](images/depnotify.png)](https://gitlab.com/Mactroll/DEPNotify)
+
+
+
+## Command-line tools
+
+### MIST - macOS Installer Super Tool
+
+> A Mac command-line tool that automatically downloads macOS Installers/firmware.
+
+**Cost:** N/A
+
+**Link:** [https://github.com/ninxsoft/Mist](https://github.com/ninxsoft/Mist)
+
+[![](https://github.com/ninxsoft/Mist/blob/main/Readme%20Resources/Intel.png?raw=true)](https://github.com/ninxsoft/Mist)
 
 
 
