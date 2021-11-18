@@ -177,6 +177,36 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Command-line tools
 
+### vfuse
+
+> A handy script that converts a never-booted DMG into a VMware Fusion VM.
+
+**Cost:** N/A
+
+**Link:** [https://github.com/chilcote/vfuse](https://github.com/chilcote/vfuse)
+
+[![](images/vfuse.png)](https://github.com/chilcote/vfuse)
+
+### Spruce
+
+> Works with your Jamf server to identify objects not currently being used, out of date, or are generally "crufty".
+
+**Cost:** N/A
+
+**Link:** [https://github.com/sheagcraig/Spruce](https://github.com/sheagcraig/Spruce)
+
+[![](images/spruce.png)](https://github.com/sheagcraig/Spruce)
+
+### Recategorizer
+
+> Quickly recategorize policies and packages in Jamf Pro, and even more unused categories.
+
+**Cost:** N/A
+
+**Link:** [https://github.com/sheagcraig/Recategorizer](https://github.com/sheagcraig/Recategorizer)
+
+[![](images/recategorizer.png)](https://github.com/sheagcraig/Recategorizer)
+
 ### MIST - macOS Installer Super Tool
 
 > A Mac command-line tool that automatically downloads macOS Installers/firmware.
@@ -186,6 +216,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 **Link:** [https://github.com/ninxsoft/Mist](https://github.com/ninxsoft/Mist)
 
 [![](https://github.com/ninxsoft/Mist/blob/main/Readme%20Resources/Intel.png?raw=true)](https://github.com/ninxsoft/Mist)
+
+### Stronghold
+
+> Easily configure macOS security settings from the terminal.
+
+**Cost:** N/A
+
+**Link:** [https://github.com/alichtman/stronghold](https://github.com/alichtman/stronghold)
+
+[![](images/stronghold.gif)](https://github.com/alichtman/stronghold)
 
 
 
@@ -392,36 +432,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](images/amphetamine.jpg)](https://itunes.apple.com/app/amphetamine/id937984704?mt=12)
 
-### vfuse
-
-> A handy script that converts a never-booted DMG into a VMware Fusion VM.
-
-**Cost:** N/A
-
-**Link:** [https://github.com/chilcote/vfuse](https://github.com/chilcote/vfuse)
-
-[![](images/vfuse.png)](https://github.com/chilcote/vfuse)
-
-### Spruce
-
-> Works with your Jamf server to identify objects not currently being used, out of date, or are generally "crufty".
-
-**Cost:** N/A
-
-**Link:** [https://github.com/sheagcraig/Spruce](https://github.com/sheagcraig/Spruce)
-
-[![](images/spruce.png)](https://github.com/sheagcraig/Spruce)
-
-### Recategorizer
-
-> Quickly recategorize policies and packages in Jamf Pro, and even more unused categories.
-
-**Cost:** N/A
-
-**Link:** [https://github.com/sheagcraig/Recategorizer](https://github.com/sheagcraig/Recategorizer)
-
-[![](images/recategorizer.png)](https://github.com/sheagcraig/Recategorizer)
-
 ### Yo
 
 > Custom user notifications with Swift.
@@ -462,15 +472,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](images/wallcat.gif)](https://itunes.apple.com/us/app/wallcat/id1000397973?mt=12)
 
-### Stronghold
-
-> Easily configure macOS security settings from the terminal.
-
-**Cost:** N/A
-
-**Link:** [https://github.com/alichtman/stronghold](https://github.com/alichtman/stronghold)
-
-[![](images/stronghold.gif)](https://github.com/alichtman/stronghold)
 
 ### Rectangle
 
