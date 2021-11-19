@@ -228,26 +228,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Helper Menus
 
-### SupportApp
-
-> The Support app is a macOS menu bar app built for organizations to help users and helpdesks to see basic diagnostic information at a glance and easily customizable with a configuration profile.
-
-**Cost:** Free
-
-**Link:** [https://github.com/root3nl/SupportApp](https://github.com/root3nl/SupportApp)
-
-[![](https://github.com/root3nl/SupportApp/raw/master/Screenshots/generic_light_mode.png)](https://github.com/root3nl/SupportApp)
-
-### NoMAD
-
-> The functionality you want from a Mac bound to Active Directory without having to actually bind to AD. (Make sure you [check out this NoMAD updater](https://github.com/jamfit/NoMAD-Installer) as well.)
-
-**Cost:** Free, Jamf Connect (pro version) pricing information can be found [here](https://www.jamf.com/products/jamf-connect/)
-
-**Link:** [https://nomad.menu/products/#nomad](https://nomad.menu/products/#nomad)
-
-[![](images/nomad.png)](https://nomad.menu/products/#nomad)
-
 ### Hello-IT
 
 > A handy menubar application to get users in touch with IT and quickly get information and resources on their Mac.
@@ -268,6 +248,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](images/macdna.png)](https://github.com/jhbush/Arek/tree/master/Development/MacDNA%20Menulet)
 
+### NoMAD
+
+> The functionality you want from a Mac bound to Active Directory without having to actually bind to AD. (Make sure you [check out this NoMAD updater](https://github.com/jamfit/NoMAD-Installer) as well.)
+
+**Cost:** Free, Jamf Connect (pro version) pricing information can be found [here](https://www.jamf.com/products/jamf-connect/)
+
+**Link:** [https://nomad.menu/products/#nomad](https://nomad.menu/products/#nomad)
+
+[![](images/nomad.png)](https://nomad.menu/products/#nomad)
+
 ### Pareto Security
 
 > Automatically audit your Mac for basic security hygiene.
@@ -277,6 +267,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 **Link:** [https://paretosecurity.app/](https://paretosecurity.app/)
 
 [![](images/pareto.png)](https://paretosecurity.app/)
+
+### SupportApp
+
+> The Support app is a macOS menu bar app built for organizations to help users and helpdesks to see basic diagnostic information at a glance and easily customizable with a configuration profile.
+
+**Cost:** Free
+
+**Link:** [https://github.com/root3nl/SupportApp](https://github.com/root3nl/SupportApp)
+
+[![](https://github.com/root3nl/SupportApp/raw/master/Screenshots/generic_light_mode.png)](https://github.com/root3nl/SupportApp)
 
 
 
