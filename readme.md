@@ -524,6 +524,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle)
 
+### sus-inspector
+
+> Inspect Apple macOS software updates.
+
+**Cost:** N/A
+
+**Link:** [https://github.com/hjuutilainen/sus-inspector](https://github.com/hjuutilainen/sus-inspector)
+
+[![](https://raw.githubusercontent.com/hjuutilainen/sus-inspector/master/screenshot.png)](https://github.com/hjuutilainen/sus-inspector)
+
 ### umad
 
 > A Professional Tool to help users with getting pre-existing devices enrolled into MDM.
