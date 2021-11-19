@@ -19,6 +19,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Command-line tools
 
+### erase-install
+
+> erase-install.sh is a script to download macOS full installers, and to reinstall, upgrade or erase macOS.
+
+**Cost:** N/A
+
+**Link:** [https://github.com/grahampugh/erase-install](https://github.com/grahampugh/erase-install)
+
+[![](images/erase-install.png)](https://github.com/grahampugh/erase-install)
+
 ### getmacosipsws.py
 
 > Quick-and-dirty tool to download the macOS IPSW files currently advertised by Apple in the [https://mesu.apple.com/assets/macos/com_apple_macOSIPSW/com_apple_macOSIPSW.xml](https://mesu.apple.com/assets/macos/com_apple_macOSIPSW/com_apple_macOSIPSW.xml) feed.
@@ -372,7 +382,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ### Atom
 
-> An free, open source, hackable text editor.
+> A free, open source, hackable text editor.
 
 **Cost:** Free
 
