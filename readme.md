@@ -560,9 +560,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 **Cost:** N/A
 
-**Link:** [https://github.com/sheagcraig/yo](https://github.com/ProfileCreator/ProfileCreator)
+**Link:** [https://github.com/ProfileCreator/ProfileCreator](https://github.com/ProfileCreator/ProfileCreator)
 
-[![](images/profilecreator.png)](https://github.com/ProfileCreator/ProfileCreator/blob/master/resources/wiki/256.png)
+[![](images/profilecreator.png)](https://github.com/ProfileCreator/ProfileCreator/blob/master/resources/screenshots/ProfileCreator.png)
 
 
 ---
