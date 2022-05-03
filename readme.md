@@ -214,6 +214,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](images/payloadfreepackagecreator.png)](https://github.com/rtrouton/Payload-Free-Package-Creator)
 
+### ProfileCreator
+
+> macOS application to create configuration profiles.
+
+**Cost:** N/A
+
+**Link:** [https://github.com/ProfileCreator/ProfileCreator](https://github.com/ProfileCreator/ProfileCreator)
+
+[![](https://github.com/ProfileCreator/ProfileCreator/raw/master/resources/screenshots/ProfileCreator.png)](https://github.com/ProfileCreator/ProfileCreator)
+
 ### Suspicious Package
 
 > An application for inspecting the contents of macOS packages.
@@ -400,6 +410,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](images/macdown.png)](https://macdown.uranusjr.com/)
 
+### Nova
+
+> Nova is a new, fast, and flexible text editor, with all the features like smart autocomplete, multiple cursors, a Minimap, editor overscroll, tag pairs and brackets, and way, way more.
+
+**Cost:** USD &#36;99.99 + tax (includes one year of updates and new features)
+
+**Link:** [https://nova.app/](https://nova.app/)
+
+[![](https://nova.app/images/en/light/editor.png)](https://nova.app/)
+
 ### Sublime Text
 
 > A high performance, cross-platform text editor.
@@ -504,6 +524,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](images/mut.png)](https://apps.apple.com/us/app/the-mut/id1133234759)
 
+### Postman
+
+> Postman is an API platform for building and using APIs. The Postman desktop app provides a simple way to interact with an API.
+
+**Cost:** Free, with paid options
+
+**Link:** [https://www.postman.com/downloads/](https://www.postman.com/downloads/)
+
+[![](https://voyager.postman.com/screen/postman-downloads-product-screen.svg)](https://www.postman.com/downloads/)
+
 ### PPPC-Utility
 
 > PPPC Utility is a macOS (10.15 and newer) application for creating configuration profiles containing the Privacy Preferences Policy Control payload for macOS.
@@ -513,6 +543,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 **Link:** [https://github.com/jamf/PPPC-Utility](https://github.com/jamf/PPPC-Utility)
 
 [![](https://github.com/jamf/PPPC-Utility/raw/master/Images/SavingSigned.png)](https://github.com/jamf/PPPC-Utility)
+
+### Prune
+
+> Prune is a handy app that looks for unused items in a Jamf Pro server and makes them easy to identify and remove.
+
+**Cost:** Free
+
+**Link:** [https://github.com/BIG-RAT/Prune](https://github.com/BIG-RAT/Prune)
+
+[![](https://github.com/BIG-RAT/Prune/blob/master/images/pruneApp.png?raw=true)](https://github.com/BIG-RAT/Prune)
 
 ### Rectangle
 
