@@ -47,7 +47,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 **Link:** [https://github.com/ninxsoft/Mist](https://github.com/ninxsoft/Mist)
 
-[![](https://github.com/ninxsoft/Mist/blob/main/Readme%20Resources/Intel.png?raw=true)](https://github.com/ninxsoft/Mist)
+[![](https://github.com/ninxsoft/Mist/raw/main/README%20Resources/Installers.png)](https://github.com/ninxsoft/Mist)
 
 ### moss
 
