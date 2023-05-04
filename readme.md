@@ -564,6 +564,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle)
 
+### Script2Pkg
+
+> Helps with the process of creating payload-free installer packages.
+
+**Cost:** N/A
+
+**Link:** [https://github.com/SAP/script-to-package-tool-for-macos](https://github.com/SAP/script-to-package-tool-for-macos)
+
+[![](https://github.com/SAP/script-to-package-tool-for-macos/raw/main/readme_images/mainwindow_disabled.png)](https://github.com/SAP/script-to-package-tool-for-macos)
+
 ### sus-inspector
 
 > Inspect Apple macOS software updates.
