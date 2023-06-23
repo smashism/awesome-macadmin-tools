@@ -494,6 +494,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](https://github.com/SAP/macOS-icon-generator/raw/main/readme_images/drag_and_drop_source_image.gif)](https://github.com/SAP/macOS-icon-generator)
 
+### Jamf Compliance Editor
+
+> Jamf Compliance Editor is a tool that provides macOS system administrators with an easy way to establish and manage compliance baselines on their fleet of macOS devices. This tool is built on the foundations of the [macOS Security Compliance Project](https://github.com/usnistgov/macos_security), hosted by the United States government agency, NIST, in their Github repo.
+
+**Cost:** N/A
+
+**Link:** [https://trusted.jamf.com/docs/establishing-compliance-baselines](https://trusted.jamf.com/docs/establishing-compliance-baselines)
+
+[![](images/jamf-compliance-editor.png)](https://trusted.jamf.com/docs/establishing-compliance-baselines)
+
 ### Jamf Migrator
 
 > A tool to migrate data granularly between Jamf Pro servers.
