@@ -544,6 +544,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](images/mut.png)](https://apps.apple.com/us/app/the-mut/id1133234759)
 
+### Particulars
+
+> Particulars displays system information as an overlay to your Mac wallpaper, as a Siri Shortcut, or a via command line.   In wallpaper mode, you choose the position and theme of the overlay.  You can choose to display any or all of: computer name, model name & identifier, serial number, CPU, GPU, RAM, OS version, Darwin version, current user, uptime, disk space, and network configuration.  Available via Mac App Store, and also offers a mass deployment .PKG for IT administrators.
+
+**Cost:** Free (developer accepts donations)
+
+**Link:** [Main Site (https://particulars.app)](https://particulars.app), or [Mac App Store](https://apps.apple.com/us/app/particulars/id885120167?ls=1&mt=12).
+
+[![](https://particulars.app/screenshots/Custom.png)](https://particulars.app)
+
 ### Postman
 
 > Postman is an API platform for building and using APIs. The Postman desktop app provides a simple way to interact with an API.
