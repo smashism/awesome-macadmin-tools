@@ -560,7 +560,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 **Link:** [Main Site (https://particulars.app)](https://particulars.app), or [Mac App Store](https://apps.apple.com/us/app/particulars/id885120167?ls=1&mt=12).
 
-[![](https://particulars.app/screenshots/Custom.png)](https://particulars.app)
+[![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6c/b5/b8/6cb5b8b1-1bda-3269-13a7-c5c8245a473c/7c5b21ce-825e-49df-8557-b8480294392f_Screen_Shot_2021-12-07_at_7.46.38_PM.png/626x0w.webp)](https://particulars.app)
 
 ### Postman
 
