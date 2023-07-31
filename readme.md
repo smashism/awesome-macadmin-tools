@@ -328,7 +328,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 **Cost:** [Free](https://www.octory.io/pricing), with Pro pricing/options available
 
-**Link:** 
+**Link:**
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YUaymUWYQAo" target="_blank"><img src="http://img.youtube.com/vi/YUaymUWYQAo/0.jpg" alt="Octory enrollment demo" width="1000" border="0" /></a>
 
@@ -483,6 +483,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 **Link:** [https://freemacsoft.net/appcleaner/](https://freemacsoft.net/appcleaner/)
 
 [![](images/appcleaner.gif)](https://freemacsoft.net/appcleaner/)
+
+### Escrow Buddy
+
+> An authorization plugin that helps MDM administrators regenerate and escrow FileVault recovery keys.
+
+**Cost:** Free
+
+**Link:** [https://github.com/macadmins/escrow-buddy](https://github.com/macadmins/escrow-buddy)
 
 ### Giphy Capture
 
