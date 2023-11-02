@@ -410,6 +410,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](images/bbedit.png)](https://www.barebones.com/products/bbedit/)
 
+### CodeLobster
+
+> Free cross-platform editor
+
+**Cost:** free (plug-ins are paid)
+
+**Link:** [https://codelobster.com/](https://codelobster.com/)
+
+[![](images/codelobster.png)](https://codelobster.com/)
+
 ### MacDown
 
 > An open source markdown editor for macOS.
