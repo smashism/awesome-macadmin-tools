@@ -89,16 +89,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](images/scriptorium.png)](https://github.com/Honestpuck/scriptorium)
 
-### Spruce
-
-> Works with your Jamf server to identify objects not currently being used, out of date, or are generally "crufty".
-
-**Cost:** N/A
-
-**Link:** [https://github.com/sheagcraig/Spruce](https://github.com/sheagcraig/Spruce)
-
-[![](images/spruce.png)](https://github.com/sheagcraig/Spruce)
-
 ### Stronghold
 
 > Easily configure macOS security settings from the terminal.
@@ -132,16 +122,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 **Link:** [https://www.mothersruin.com/software/Apparency/](https://www.mothersruin.com/software/Apparency/)
 
 [![](images/apparency.png)](https://www.mothersruin.com/software/Apparency/)
-
-### AutoDMG
-
-> Create deployable system images from macOS installers.[*](http://isimagingdead.com/)
-
-**Cost:** N/A
-
-**Link:** [https://github.com/MagerValp/AutoDMG](https://github.com/MagerValp/AutoDMG)
-
-[![](images/autodmg.png)](https://github.com/MagerValp/AutoDMG)
 
 ### AutoPkg
 
@@ -212,7 +192,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 **Link:** [http://s.sudre.free.fr/Software/Packages/about.html](http://s.sudre.free.fr/Software/Packages/about.html)
 
 [![](images/packages.gif)](http://s.sudre.free.fr/Software/Packages/about.html)
-
 
 ### Payload-Free Package Creator
 
@@ -332,17 +311,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YUaymUWYQAo" target="_blank"><img src="http://img.youtube.com/vi/YUaymUWYQAo/0.jpg" alt="Octory enrollment demo" width="1000" border="0" /></a>
 
-### Splash Buddy
-
-> A customizable onboarding app designed to work with Jamf Pro and DEP.
-
-**Cost:** N/A
-
-**Link:** [https://github.com/macadmins/SplashBuddy](https://github.com/macadmins/SplashBuddy)
-
-[![](images/splashbuddy.png)](https://github.com/Shufflepuck/SplashBuddy)
-
-
 
 ## Productivity
 
@@ -389,16 +357,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 
 ## Text Editing
-
-### Atom
-
-> A free, open source, hackable text editor.
-
-**Cost:** Free
-
-**Link:** [https://atom.io/](https://atom.io/)
-
-[![](images/atom.png)](https://atom.io/)
 
 ### BBEdit
 
