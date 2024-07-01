@@ -588,7 +588,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 **Link:** [https://sofa.macadmins.io/](https://sofa.macadmins.io/)
 
-[![](/images/sofa.ing)](https://sofa.macadmins.io/)
+[![](/images/sofa.png)](https://sofa.macadmins.io/)
 
 ### sus-inspector
 
