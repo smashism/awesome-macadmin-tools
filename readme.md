@@ -580,6 +580,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](https://github.com/SAP/script-to-package-tool-for-macos/raw/main/readme_images/mainwindow_disabled.png)](https://github.com/SAP/script-to-package-tool-for-macos)
 
+### SOFA
+
+> SOFA (**S**imple **O**rganized **F**eed for **A**pple Software Updates) supports MacAdmins by efficiently tracking and surfacing information on updates for macOS and iOS. It consists of a machine-readable feed and user-friendly web interface, providing continuously up-to-date information on XProtect data, OS updates, and the details bundled in those releases.
+
+**Cost:** N/A
+
+**Link:** [https://sofa.macadmins.io/](https://sofa.macadmins.io/)
+
+[![](/images/sofa.ing)](https://sofa.macadmins.io/)
+
 ### sus-inspector
 
 > Inspect Apple macOS software updates.
