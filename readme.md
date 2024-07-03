@@ -89,6 +89,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](images/scriptorium.png)](https://github.com/Honestpuck/scriptorium)
 
+### S.U.P.E.R.M.A.N.
+
+> S.U.P.E.R.M.A.N. (**S**oftware **U**pdate **P**olicy **E**nforcement (with) **R**ecursive **M**essaging **A**nd **N**otification) optimizes the macOS software upgrade and upgrade experience.
+
+**Cost:** N/A
+
+**Link:** [https://github.com/Macjutsu/super](https://github.com/Macjutsu/super)
+
+[![](https://github.com/Macjutsu/super/raw/main/Images/UpdateExample.png)](https://github.com/Macjutsu/super)
+
 ### Stronghold
 
 > Easily configure macOS security settings from the terminal.
