@@ -311,6 +311,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](images/depnotify.png)](https://gitlab.com/Mactroll/DEPNotify)
 
+## Jamf Setup Manager
+
+> There are many enrollment progress tools available for Mac admins, each with their own strengths. Jamf Setup Manager approaches the problem from the perspective of an IT service provider. It runs over Setup Assistant before a user is created so it won't interfere with MDM-capable user or the secure token flow for FileVault. You can control which policies and installations Setup Manager runs with a configuration profile.
+
+**Cost:** N/A
+
+**Link:** [https://github.com/Jamf-Concepts/Setup-Manager](https://github.com/Jamf-Concepts/Setup-Manager)
+
+[![](https://github.com/Jamf-Concepts/Setup-Manager/raw/main/Images/setup-manager-progress-screenshot.png)](https://github.com/Jamf-Concepts/Setup-Manager)
+
 ### Octory
 
 > Octory is a highly customizable and elegant macOS application to onboard, support and watch over your users on their Mac.
