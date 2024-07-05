@@ -235,6 +235,19 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 
 
+### Patchomator
+
+> A management script for automating updates with Installomator.
+
+**Price:** N/A
+
+**Link:** [https://github.com/Mac-Nerd/patchomator](https://github.com/Mac-Nerd/patchomator)
+
+[![](images/patchomator-progress.png)]([http://url/to/toolinfo](https://github.com/Mac-Nerd/patchomator))
+
+
+
+
 ## Helper Menus
 
 ### Hello-IT
