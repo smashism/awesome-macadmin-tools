@@ -650,6 +650,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](https://github.com/ProfileCreator/ProfileCreator/blob/master/resources/screenshots/ProfileCreator.png)](https://github.com/ProfileCreator/ProfileCreator)
 
+### iMazing Profile Editor
+
+**Cost:** Free
+
+**Link:** [https://imazing.com/profile-editor](https://imazing.com/profile-editor)
+
+> iMazing Profile Editor lets you create, edit, and sign profiles for macOS and iOS devices without coding XML files. You can customize the app, use community-compiled manifests, and export to MDM-compatible .plist files.
+
+[![](images/imazingprofileeditor.png)](https://imazing.com/profile-editor)
+
 
 ---
 
