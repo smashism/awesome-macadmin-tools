@@ -233,6 +233,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](images/suspiciouspackage.gif)](http://www.mothersruin.com/software/SuspiciousPackage/)
 
+### Baseline
+
+> An MDM agnostic zero touch or light touch solution for macOS. Fueled by swiftDialog and integrated with Installomator, run Packages, Scripts, and Installomator labels. Manage configurations using iMazing Profile Editor.
+
+**Cost:** Free
+
+**Link:** [https://github.com/secondsonconsulting/baseline](https://github.com/secondsonconsulting/baseline)
+
+[![](images/baseline.png)](https://github.com/secondsonconsulting/baseline)
 
 
 ## Helper Menus
