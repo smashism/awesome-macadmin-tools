@@ -119,7 +119,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](images/vfuse.png)](https://github.com/chilcote/vfuse)
 
+### swiftDialog
 
+> swiftDialog is an open source admin utility for macOS written in SwiftUI that presents custom dialogs, displays informative messages or can be used as a form to request user input.
+
+**Cost:** Free
+
+**Link:** [https://github.com/swiftDialog/swiftDialog](https://github.com/swiftDialog/swiftDialog)
+
+[![](images/swiftDialog.png)](https://github.com/swiftDialog/swiftDialog)
 
 ## Deployment
 
