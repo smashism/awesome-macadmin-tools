@@ -99,6 +99,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](https://github.com/Macjutsu/super/raw/main/Images/UpdateExample.png)](https://github.com/Macjutsu/super)
 
+### SecuraMac
+
+> SecuraMac simplifies macOS security, offering quick and effective tools to fortify your system and ensure protection.
+
+**Cost:** N/A
+
+**Link:** [https://github.com/cocopuff2u/SecuraMac](https://github.com/cocopuff2u/SecuraMac)
+
+[![](images/SecuraMac.gif)](https://github.com/cocopuff2u/SecuraMac)
+
 ### Stronghold
 
 > Easily configure macOS security settings from the terminal.
