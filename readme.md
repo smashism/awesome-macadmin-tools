@@ -474,7 +474,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 **Link:** [https://coderunnerapp.com/download](https://coderunnerapp.com/download)
 
-[![](images/CodeRunner4.png)](https://coderunnerapp.com/download)
+[![](images/CodeRunner4.jpg)](https://coderunnerapp.com/download)
 
 
 
