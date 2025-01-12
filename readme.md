@@ -595,7 +595,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 **Link:** [https://github.com/mikaellofgren/PrinterSetup](https://github.com/mikaellofgren/PrinterSetup)
 
-[![](https://github.com/mikaellofgren/PrinterSetup/blob/master/images/printersetupinterface.png)](https://github.com/mikaellofgren/PrinterSetup)
+[![](images/printersetup.png)](https://github.com/mikaellofgren/PrinterSetup)
 
 ### Prune
 
