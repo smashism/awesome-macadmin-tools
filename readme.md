@@ -589,7 +589,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ### PrinterSetup
 
-> PrinterSetup is a macOS (12 and newer) printer utility application that generates lpadmin output to add printers.
+> PrinterSetup is a macOS Monterey (12) or higher printer utility that generates lpadmin output to add printers.
 
 **Cost:** Free
 
