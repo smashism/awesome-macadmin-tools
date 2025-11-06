@@ -677,6 +677,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](images/imazingprofileeditor.png)](https://imazing.com/profile-editor)
 
+### Mouse Jiggler for Mac
+
+> Prevent Mac from sleep with Mac Mouse Mover.
+
+**Cost:** Free in the Mac App Store
+
+**Link:** [https://mousejigglermac.com](https://mousejigglermac.com)
+
+![](https://mousejigglermac.com/img/img.webp)
+
 
 ---
 
