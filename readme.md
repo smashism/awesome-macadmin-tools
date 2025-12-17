@@ -611,6 +611,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](https://github.com/jamf/PPPC-Utility/raw/master/Images/SavingSigned.png)](https://github.com/jamf/PPPC-Utility)
 
+### PrinterSetup
+
+> PrinterSetup is a macOS Monterey (12) or higher printer utility that generates lpadmin output to add printers.
+
+**Cost:** Free
+
+**Link:** [https://github.com/mikaellofgren/PrinterSetup](https://github.com/mikaellofgren/PrinterSetup)
+
+[![](images/printersetup.png)](https://github.com/mikaellofgren/PrinterSetup)
+
 ### Prune
 
 > Prune is a handy app that looks for unused items in a Jamf Pro server and makes them easy to identify and remove.
