@@ -479,6 +479,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 [![](images/xcode.png)](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
 
 
+### Coderunner 4
+
+> A lightweight, multi-language programming text editor and IDE for macOS.
+
+**Cost:** 19.99. Included with SetApp
+
+**Link:** [https://coderunnerapp.com/download](https://coderunnerapp.com/download)
+
+[![](images/CodeRunner4.jpg)](https://coderunnerapp.com/download)
+
+
 
 ## Utilities
 
