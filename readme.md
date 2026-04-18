@@ -129,6 +129,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](images/swiftDialog.png)](https://github.com/swiftDialog/swiftDialog)
 
+### Hazmat
+
+> macOS containment CLI for AI coding agents and risky local scripts. The work runs under its own UID, under a Seatbelt policy applied via `sandbox_init()` from a small privileged helper, with PF anchors and DNS blocklists for per-session network policy, plus backup/rollback. TLA+-checked design.
+
+**Cost:** Free
+
+**Link:** [https://github.com/dredozubov/hazmat](https://github.com/dredozubov/hazmat)
+
 ## Deployment
 
 ### Apparency
