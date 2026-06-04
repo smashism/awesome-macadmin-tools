@@ -513,6 +513,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](images/appcleaner.gif)](https://freemacsoft.net/appcleaner/)
 
+### Dusty
+
+> A free, open-source menu bar cleaner for reclaiming space from safe macOS caches, logs, Xcode data, and developer artifacts.
+
+**Cost:** Free
+
+**Link:** [https://github.com/yagcioglutoprak/dusty](https://github.com/yagcioglutoprak/dusty)
+
+[![](https://github.com/yagcioglutoprak/dusty/raw/main/docs/screenshots/demo.gif)](https://github.com/yagcioglutoprak/dusty)
+
 ### Escrow Buddy
 
 > An authorization plugin that helps MDM administrators regenerate and escrow FileVault recovery keys.
