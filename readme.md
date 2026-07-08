@@ -404,6 +404,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](images/trello.png)](https://trello.com/)
 
+### OATS
+
+> Open-source local-first macOS meeting-notes app with live meeting transcription, speaker labels, and AI summaries, with an offline on-device mode.
+
+**Cost:** Free
+
+**Link:** [https://github.com/ariso-ai/oats](https://github.com/ariso-ai/oats)
+
+[![](https://github.com/ariso-ai/oats/raw/main/docs/assets/screenshot-a.png)](https://github.com/ariso-ai/oats)
+
 
 
 ## Text Editing
