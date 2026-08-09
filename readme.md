@@ -364,6 +364,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Productivity
 
+### Nexus Shell
+
+> A native macOS SSH workspace for terminals, SFTP, Docker, server monitoring, SSH keys, and encrypted session logs.
+
+**Price:** Free for personal non-commercial use, with a USD $12.88 one-time Pro upgrade.
+
+**Link:** [https://nexusshell.app/](https://nexusshell.app/)
+
+[![](images/nexus-shell.png)](https://nexusshell.app/)
+
 ### Google Keep
 
 > Virtual sticky notes, lists, photos, and audio.
