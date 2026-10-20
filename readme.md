@@ -491,6 +491,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 
 
+### Glim
+
+> Open-source macOS file viewer and basic UTF-8 text editor with Markdown, diagram, source-code and local Git diff previews.
+
+**Price:** N/A (open source)
+
+**Link:** [Glim and downloads](https://github.com/NeoPanic/Glim#download)
+
+[![Glim workspace](images/glim.png)](https://github.com/NeoPanic/Glim)
+
 ## Utilities
 
 ### Amphetamine
