@@ -711,6 +711,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](images/imazingprofileeditor.png)](https://imazing.com/profile-editor)
 
+### LayoutKeeper
+
+> Menu bar utility that restores windows to their original external monitor, Space, and position when a display is reconnected, with per-port display arrangement switching on Apple Silicon and a Keep Awake toggle.
+
+**Cost:** N/A
+
+**Link:** [https://github.com/tumingke0/LayoutKeeper](https://github.com/tumingke0/LayoutKeeper)
+
+[![](images/layoutkeeper.png)](https://github.com/tumingke0/LayoutKeeper)
+
 
 ---
 
