@@ -492,6 +492,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 
 ## Utilities
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Lightweight macOS dock-adjacent Now Playing companion.
 
 ### Amphetamine
 
