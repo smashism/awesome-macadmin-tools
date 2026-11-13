@@ -317,7 +317,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](https://github.com/root3nl/SupportApp/raw/master/Screenshots/generic_light_mode.png)](https://github.com/root3nl/SupportApp)
 
+### FixStat
 
+> Free, read-only menu bar app for checking Mac hardware: sensor names per model instead of raw SMC keys, battery gauge data (cell voltages, Qmax, pack history, originality check), SSD SMART including USB enclosures, a live view of power rails and a hardware checklist with a PDF report.
+
+**Cost:** N/A
+
+**Link:** [https://github.com/Lapsely/fixstat](https://github.com/Lapsely/fixstat)
+
+[![](images/fixstat.png)](https://github.com/Lapsely/fixstat)
 
 ## Onboarding Experience
 
