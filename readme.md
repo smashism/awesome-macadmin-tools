@@ -711,6 +711,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![](images/imazingprofileeditor.png)](https://imazing.com/profile-editor)
 
+### Mouse Jiggler for Mac
+
+> Keep your Mac awake during long-running tasks, prevent sleep without moving the cursor, or schedule cursor movement from the menu bar.
+
+**Price:** Free to download, with an optional one-time in-app purchase.
+
+**Link:** [Website](https://mousejigglermac.com/) · [Mac App Store](https://apps.apple.com/app/id6740313656)
+
 
 ---
 
